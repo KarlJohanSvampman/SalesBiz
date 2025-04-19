@@ -1,5 +1,6 @@
 # Sales In A Cloud
 
+## Concept
 SaaS Platform connecting businesses with individual contractors available for hire,
 to sell their products and services. Allows companies to hire remote sales and representation 
 with great flexibility in terms of price model, and businesses can choose whether to pay
@@ -21,7 +22,7 @@ a "payroll" balance, from which funds are distributed to employee's upon complet
 
 Employers may also offer commission to employees. should an engagement initiated by an approved contractor, lead to a deal
 and a contract is signed. Whenever a contractor lands a deal, the total value of the deal in revenue for the employer, is added to the sum of the contractor's "net worth", displayed on their public profile/porfolio page, along with a bunch
-of different scores, previous engegement's and work experience, and reviews/quotes/references written by customers and employer. The platform encourages customers taking part in meetings booked by a registered sales representative, to separate product/service from the sales person, any comments or questions on products/services that the sales representative can't answer is forwarded to the owning company. The platform however, seeks to encourage people to always improve and grow more adept and secure, rather than complacent and safe, to achieve this we plan to use AI to analyze carefully selected data points as well as work flows and statistics in order to provide personal suggestions for each registered employee (as well as automating notes, tips, tasks and power-point presentations, and also suggestions for employers on how to get the most out of the platform and  increase their sales   and to get the most valuable and most constructive points from notes and reviews. from the point of view of sales, 
+of different scores, previous engegement's and work experience, and reviews/quotes/references written by customers and employer. The platform encourages customers taking part in meetings booked by a registered sales representative, to separate product/service from the sales person, any comments or questions on products/services that the sales representative can't answer is forwarded to the owning company. The platform however, seeks to encourage people to always improve and grow more adept and secure, rather than complacent and safe, to achieve this we plan to use AI to analyze carefully selected data points as well as work flows and statistics in order to provide personal suggestions for each registered employee (as well as automating notes, tips, tasks and power-point presentations, and also suggestions for employers on how to get the most out of the platform and  increase their sales and to get the most valuable and most constructive points from notes and reviews. from the point of view of sales, 
 
 The platform also provides a system for handling disputes between employer and employee's to aid in preserving 
 long-lasting, professional and mututally beneficial relationship. 
@@ -31,13 +32,42 @@ documents, and also so that the employee's can make their own power-points or up
 or anything related to a lead or a prospect, or the employing company. 
 
 
+## Terminology & business logic objects 
 
-## Salesperson (Employee)
+### Salesperson (Employee Account)
 
 Register as a salesperson to create a profile, and start looking for a product or a service to sell, 
 study the material and when you feel you are ready, apply for a "Review" with the product owner (company) 
 
-## Businesss
+### Business (Employer Account)
 
 Register as a business to start advertising products and/or services for sale, and for which you need
 salespeople. 
+
+### Contract
+A contractors various contracts with employers, defining how the contractor is payed, for what, and what 
+% of commission the contractor is entitled to in the event his work leads to a sell. 
+
+### Sales Meeting
+A sales meeting is any meeting where the customer is represented in attendence and they are
+attending because they are interested in a product/service, and genuinely looking to strike a potential deal. 
+
+### Lead 
+Any information relating to a company or organisation, or department, representing a business opportunity, and which the employee has initiated contact
+
+#### Contact
+
+### Deal 
+Lead becomes deal if the customer ends up buying the service/product from the employer, and a contraxt is signed
+
+### Prospect
+Prospect is a document gathering all information relating to what/how much the customer is looking to buy, any loosely 
+expressed need for products/services and/or figures and numbers. The proapect is revised as the sales engagement progresses,
+and in the end it is submitted to the employer as the basis for a price estimate or an official quote which the contractor
+can give to the customer. 
+
+### Quote
+
+### Assignment
+
+### Task
