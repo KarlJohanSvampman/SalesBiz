@@ -10,15 +10,18 @@ per project or event such as conventionsa and conferences.
 ## Vision
 Our slogan is "Creating Business Incentive", a phrase that pretty accurately sums up what is our vision,
 namely to generate business by discovering untapped resources in the form of talent, in the art of sales.
-The more successful businessmen throghout history became bankers in the end, but the way we see it, they all 
-started out as salesmen, brokering deals in between business, and investing their profits wherever they saw opportunity
-in the form of innovation, residing within people. 
+To enable start-ups and business entrepreneaures to make more efficient sales, to reach a more diverse crowd
+of customers and a distriuted network of contrators, each with their own network of contacts, all while cutting 
+costs and risks associated with hiring sales in-house. 
 
-In other words, to invest in people may not be considered as risk-free 
-as, let's say investing in real estate, and far from everyone is cut out to do sales, however, investing in
-people is still interesting because , ignoring the risks, it is the single most potentially profitable 
-prospect, as there is no limit to how much a single person who is not limited to a box and who has a unique perspective, 
-can sell,
+We want to give people and companies more possibilities in terms of remote or hybrid work opportunities, which would allow 
+them more freedom to chooose where to live and work, hence more time to experience and study different cultures, political systems, and learn languages and 
+experience more diversity, because we believe it leads to people becoming more self-aware, as in more intelligent. 
+
+By focusing on sales and applying AI to constantly help our contractors improve their tehniques - by offering suggestions
+based in general statistics but also personal tips based on patterns observed. We hope to use all that data we gather 
+and analyze it in great detailm using the AI, so that all parties may grow all the more
+insightful and proficient at sales. 
 
 ## Features & Selling Points
 
